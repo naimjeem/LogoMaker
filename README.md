@@ -1,5 +1,7 @@
 # Free Online LogoMaker
 
+It is a desktop app version of Free Online Logo maker https://logomakr.com/
+
 ## Setup
 
 ```bash
@@ -11,7 +13,7 @@ sudo npm install -g electron
 git clone https://github.com/JeFcorp/LogoMaker.git
 ```
 
-## Install Dependicies
+## Install Dependencies
 
 ```bash
 cd LogoMaker
@@ -20,6 +22,7 @@ npm install
 
 ## Run App
 ```bash
+cd LogoMaker
 ./logo-maker
 ```
 
